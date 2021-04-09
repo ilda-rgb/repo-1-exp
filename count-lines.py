@@ -3,6 +3,8 @@
 Input: and string from the system standard input
 
 
+Output: a string with the total number of lines
+
 """
 
 
