@@ -1,0 +1,4 @@
+#list of directories or files that we want to ignore
+
+big-data.zip
+data/
